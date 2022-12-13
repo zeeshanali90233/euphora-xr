@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/euphoria-xr/static/css/main.85c77b26.css",
+    "main.js": "/euphoria-xr/static/js/main.d5b2d750.js",
+    "static/js/787.ba508abf.chunk.js": "/euphoria-xr/static/js/787.ba508abf.chunk.js",
+    "static/media/Euphoria Bg Img.png": "/euphoria-xr/static/media/Euphoria Bg Img.2198a58f32442ed0d655.png",
+    "static/media/cropped-euphorialogo-1536x237.png": "/euphoria-xr/static/media/cropped-euphorialogo-1536x237.264ed35afcd7fae80281.png",
+    "index.html": "/euphoria-xr/index.html",
+    "main.85c77b26.css.map": "/euphoria-xr/static/css/main.85c77b26.css.map",
+    "main.d5b2d750.js.map": "/euphoria-xr/static/js/main.d5b2d750.js.map",
+    "787.ba508abf.chunk.js.map": "/euphoria-xr/static/js/787.ba508abf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85c77b26.css",
+    "static/js/main.d5b2d750.js"
+  ]
+}
