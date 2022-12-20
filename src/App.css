@@ -1,0 +1,268 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;400&family=Nanum+Gothic&family=Raleway:wght@300;400&family=Roboto+Slab:wght@300&display=swap');
+
+/* header part of the website */
+.header{
+  height:100px;
+  background-color: #232323;
+  display: flex;
+  align-items: center;
+  padding: 0 20px 0px 40px;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+/* removing default link properties */
+a{
+  text-decoration: none;
+  color: white;
+}
+
+/* styling of each button of navbar */
+.btn{
+  margin-top: 15px;
+  margin-left: 10px;
+  font-family: "Raleway", Sans-serif;
+  font-size: 19px;
+  font-weight: 800;
+  background-color: #232323;
+  color: #FFFFFF;
+  padding: 0px 15px 0px 15px;
+}
+
+
+/* contact button of navbar */
+span{
+  font-family: "Raleway", Sans-serif;
+  font-size: 20px;
+  font-weight: 800;
+}
+
+
+/* outer block of all the navbar buttons */
+.btns{
+  display: flex;
+}
+
+/* when button is being hovered */
+.btn>a:hover{
+  color: #BA1F19;
+}
+
+
+/* hamburger logo in navbar  */
+.hamburger-logo{
+  position: absolute;
+  top: 50px;
+  right:40px;
+  display: none;
+}
+
+
+
+/* dropdown menu custom style */
+.ant-dropdown-menu{
+  margin-top: 31px !important;
+  background-color:#232323 !important;
+  margin-left: -1rem !important; 
+  padding: 10px !important;
+}
+
+.ant-dropdown-menu a{
+  color:white !important ;
+ 
+}
+
+.ant-dropdown-menu-title-content a:hover{
+  color: #BA1F19 !important;
+  transition: all 2s ease-in-out !important;
+}
+.ant-dropdown-menu-item{
+  margin-bottom: 30px !important;
+}
+
+
+/* sidebar */
+.sidebar{
+  position: absolute;
+  width: 100%;
+  left: 0;
+  display: flex;
+  z-index: 1000;
+  height: 100%;
+  transition: transform 0.5s ease-in;
+}
+
+
+/* sidebar hide */
+.sidebarGo{
+  transform: translate(-100%,0);
+}
+
+.sidebar .bgshadow{
+  width: 80%;
+  background-color: rgba(35, 35, 35,0.4);
+}
+.sidebar .main-sidebar{
+  width: 400px;
+  background-color: #232323;
+  height: 100%;
+}
+.sidebar .btn-cross{
+  margin-left: auto;
+  /* border: #FFFFFF 2px solid ; */
+  border-radius: 1px;
+  padding: 3px 15px;
+}
+.sidebar .sidebar-header{
+  margin: 1rem;
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
+}
+
+.sidebar .sidebar-content{
+  margin: 30px 0 0 0px;
+}
+
+.sidebar .sidebar-content ul li{
+  padding-left: 15px;
+  background-color:black;
+  padding-bottom:25px;
+  padding-top: 10px;
+  border-bottom: 0.4px solid #FFFFFF;
+  list-style: none;
+  margin-left: -35px;
+  /* margin-bottom: 25px; */
+}
+.sidebar .sidebar-content ul li a{
+  font-weight: 700;
+}
+
+
+/* styling of contact button in navbar */
+.btn-contact{
+  box-sizing: border-box;
+  margin-left: 20px;
+  margin-right: 0px !important;
+  font-family: "Raleway", Sans-serif;
+  padding: 10px 30px;
+  border-radius: 8px;
+  font-size: 22px;
+  font-weight: 900;
+  background-color:#BA1F19;
+  color: #FFFFFF;
+}
+
+
+/* second section carousel style */
+.carousel{
+  color: #FFFFFF;
+  width: 100%;
+  background: url("./Assets//Images/Euphoria\ Bg\ Img.png") no-repeat ;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 55rem;
+  padding: 150px;
+}
+
+
+
+.carousel .carousel-heading{
+  font-size: 60px;
+  text-align: center;
+  word-wrap: break-word;
+  /* animation: blink 1s 1s infinite ; */
+}
+
+/* use for blinking */
+/* @keyframes blink {
+100% {
+color: red;
+}
+}
+@-webkit-keyframes blink 
+{
+0% {
+color: yellow;
+}
+} */
+
+/* Introduction Section*/
+.intro{
+  box-sizing: border-box;
+  width: 100%;
+  /* height: 564px; */
+  background-color: #232323;
+  margin-top: -16px;
+  text-align: center;
+  padding: 50px;
+}
+
+.intro .heading{
+  color: #DEDEDE;
+  font-family: "Raleway", Sans-serif;
+  font-size: 44px;
+  font-weight: 900;
+}
+
+.intro .para{
+  color: #FFFFFF;
+  color: #DEDEDE;
+  font-family: "Raleway", Sans-serif;
+  font-size: 18px;
+  font-weight: 300;
+}
+
+.intro .sched-call{
+  font-family: "Raleway", Sans-serif;
+    font-size: 22px;
+    font-weight: 900;
+    line-height: 20px;
+    background-color: #BA1F19;
+    padding: 22px 100px 20px 100px;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 5px;
+    transition: all 0.2s ease-in-out;
+}
+
+.intro .sched-call:hover{
+  font-family: "Raleway", Sans-serif;
+  font-size: 22px;
+  font-weight: 900;
+  line-height: 20px;
+  background-color: #FFFFFF;
+  color: #BA1F19;
+}
+
+.intro .our-projects{
+  margin-top: 100px;
+  color: #FFFFFF;
+  font-family: "Raleway", Sans-serif;
+  font-size: 41px;
+  font-weight: 600;
+}
+
+/* responsiveness */
+@media screen and (max-width:1050px) {
+  /* decreasing the size of carousel text */
+  .carousel .carousel-heading{
+    font-size: 20px;
+  }
+
+  @media screen and (max-width:1028px) {
+    /* hiding all the buttons of navbar and displaying hamburger */
+    .btn, .btn-contact{
+      display: none;
+    }
+    .hamburger-logo{
+      display: block;
+    }
+    .header .logo img{
+      width: 200px;
+    }
+  }
+}
+
