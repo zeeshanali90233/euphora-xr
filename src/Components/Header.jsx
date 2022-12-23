@@ -154,9 +154,11 @@ const menu = (
             <a href="/whatsnew">What's New</a>
           </div>
 
+          <a href="#">
           <div className="btn-contact">
-              <a href="/contanct">Contact</a>
+              Contact
           </div>
+          </a>
         </div>
 
       </section>

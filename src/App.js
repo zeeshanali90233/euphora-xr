@@ -1,15 +1,10 @@
 import { Layout } from "antd";
-import Header from "./Components/Header";
-import Carousel from "./Components/Carousel";
-import Introduction from "./Components/Introduction";
-
+import Home from "./Pages/Home";
 
 function App() {
   return (
     <Layout>
-        <Header/>
-        <Carousel/>    
-        <Introduction/>    
+        <Home/>
     </Layout>
   );
 }
