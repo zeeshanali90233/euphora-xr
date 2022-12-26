@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/euphoria-xr/static/css/main.032df9e9.css",
+    "main.js": "/euphoria-xr/static/js/main.6d78ed00.js",
+    "static/js/787.ba508abf.chunk.js": "/euphoria-xr/static/js/787.ba508abf.chunk.js",
+    "static/media/Euphoria Bg Img.png": "/euphoria-xr/static/media/Euphoria Bg Img.2198a58f32442ed0d655.png",
+    "static/media/foodImg.jpg": "/euphoria-xr/static/media/foodImg.5a48ce2986c923204f09.jpg",
+    "static/media/card-2 bg-img.jpeg": "/euphoria-xr/static/media/card-2 bg-img.38a1019fc7bae5722a37.jpeg",
+    "static/media/card-6 bg-img.jpeg": "/euphoria-xr/static/media/card-6 bg-img.d5c4a2dd4bfcf00a1819.jpeg",
+    "static/media/card-7 bg-img.jpeg": "/euphoria-xr/static/media/card-7 bg-img.480454834991b11b7196.jpeg",
+    "static/media/widget-9 bgimg.jpg": "/euphoria-xr/static/media/widget-9 bgimg.6c3273681ecc047ca271.jpg",
+    "static/media/card-8 bg-img.jpeg": "/euphoria-xr/static/media/card-8 bg-img.4f5b31f84eff60ea4f07.jpeg",
+    "static/media/widget-5bgimg.jpg": "/euphoria-xr/static/media/widget-5bgimg.094e78ea31c4c0d62db5.jpg",
+    "static/media/cropped-euphorialogo-1536x237.png": "/euphoria-xr/static/media/cropped-euphorialogo-1536x237.264ed35afcd7fae80281.png",
+    "static/media/card-4 bg-img.jpeg": "/euphoria-xr/static/media/card-4 bg-img.6a2b071d4ecd712914cc.jpeg",
+    "static/media/card-5 bg-img.jpeg": "/euphoria-xr/static/media/card-5 bg-img.588975e44e42dcc5efca.jpeg",
+    "static/media/card-2 logo.jpeg": "/euphoria-xr/static/media/card-2 logo.db500d57aae0447aea87.jpeg",
+    "static/media/card-1 bg-img.jpeg": "/euphoria-xr/static/media/card-1 bg-img.6cc2dfe7f44f48fdb867.jpeg",
+    "static/media/client-logo-1.png": "/euphoria-xr/static/media/client-logo-1.f4963649dcd4f4cf7fdc.png",
+    "static/media/card-5 logo.jpeg": "/euphoria-xr/static/media/card-5 logo.4767932289316ac3685e.jpeg",
+    "static/media/card-3 bg-img.jpeg": "/euphoria-xr/static/media/card-3 bg-img.b6637aeae486836c5060.jpeg",
+    "static/media/card-1 logo.jpeg": "/euphoria-xr/static/media/card-1 logo.34501da961f524e86e70.jpeg",
+    "static/media/client-logo-10.png": "/euphoria-xr/static/media/client-logo-10.8dfb64eb1aa886510151.png",
+    "static/media/client-logo-4.png": "/euphoria-xr/static/media/client-logo-4.ef00fbbc6e6a9145847e.png",
+    "static/media/logoredround.png": "/euphoria-xr/static/media/logoredround.0c969ac8d66984114d4f.png",
+    "static/media/card-3 logo.jpeg": "/euphoria-xr/static/media/card-3 logo.2ed877724b06c50a8e6b.jpeg",
+    "index.html": "/euphoria-xr/index.html",
+    "main.032df9e9.css.map": "/euphoria-xr/static/css/main.032df9e9.css.map",
+    "main.6d78ed00.js.map": "/euphoria-xr/static/js/main.6d78ed00.js.map",
+    "787.ba508abf.chunk.js.map": "/euphoria-xr/static/js/787.ba508abf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.032df9e9.css",
+    "static/js/main.6d78ed00.js"
+  ]
+}
